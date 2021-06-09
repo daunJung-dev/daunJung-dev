@@ -3,5 +3,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daunJung-dev&layout=compact)](https://github.com/daunJung-dev/github-readme-stats)
 
 
-- 🔭 I’m currently working on Paycrux as a Front-end developer
+- 🔭 I’m a leading Front-end developer at Paycrux Company.
 - 🌱 I’m currently learning React/Typescript and all the things about Web Dev.
