@@ -5,3 +5,6 @@
 
 - 🔭 I’m a leading Front-end development at Paycrux Company.
 - 🌱 I’m currently learning React/Typescript and all the things about Web Dev.
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daunJung-dev%2Fhit-counter)](https://hits.seeyoufarm.com)
