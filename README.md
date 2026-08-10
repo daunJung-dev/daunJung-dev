@@ -1,10 +1,13 @@
-[![Daun's GitHub stats](https://github-readme-stats.vercel.app/api?username=daunJung-dev&show_icons=true&theme=radical)](https://github.com/daunJung-dev/github-readme-stats)
+### Hi, I'm Daun 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daunJung-dev&layout=compact)](https://github.com/daunJung-dev/github-readme-stats)
+Full-stack / platform engineer based in Seoul, working across backend, frontend, and infrastructure with architecture-level ownership.
 
+**Skills & focus areas**
+- ⚙️ Backend: TypeScript, Node.js, GraphQL, job queues (BullMQ/Redis)
+- ⚛️ Frontend: React performance — virtualized large data tables, GPU rendering/compositing tuning
+- ☁️ Infrastructure: AWS (ECS, EKS, CloudFront/S3, IAM), MariaDB, CI/CD pipelines
+- 🔒 Security: dev environment hardening — rate limiting, auth guards, GraphQL introspection gating
 
-- 🔭 I’m a Developer who make some goods for people.
-- 🌱 I’m currently learning React/Typescript and all the things about Web Dev.
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daunJung-dev%2Fhit-counter)](https://hits.seeyoufarm.com)
+**Career**
+- Started in embedded/kiosk development — Electron apps with serial port communication and payment terminal integration
+- Grew into a core product engineer role with architectural decision-making across a B2B SaaS product suite
